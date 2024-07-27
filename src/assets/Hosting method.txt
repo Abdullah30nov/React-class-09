@@ -1,0 +1,13 @@
+ Firebase React Hosting
+Open Firebase and create new Project
+open cmd and follow this 
+
+* firebase login
+* firebase init
+* yes
+* hosting
+* Use Existing Project
+* Public folder ki jaga Dist Folder
+* index.html = yes
+* Github = no
+* firebase deploy
